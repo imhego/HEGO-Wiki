@@ -26,4 +26,4 @@ Contributions to HEGO Wiki are welcome! If you have valuable insights or checkli
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/hego)](buymeacoffee.com/?via=hego)
