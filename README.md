@@ -1,5 +1,7 @@
 # HEGO Wiki
 
+![HEGO Wiki Banner](https://github.com/your-username/your-repo-name/raw/main/images/banner_image.jpg)
+
 [![HEGO Wiki](https://img.shields.io/badge/HEGO-Wiki-blueviolet)](https://hego.gitbook.io)
 
 HEGO Wiki is your ultimate resource for Offensive Cybersecurity hobbies. Explore my comprehensive collection of checklists and gain invaluable insights into securing web applications effectively. Fortify your defenses with the knowledge provided on HEGO Wiki.
@@ -27,4 +29,3 @@ Contributions to HEGO Wiki are welcome! If you have valuable insights or checkli
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
