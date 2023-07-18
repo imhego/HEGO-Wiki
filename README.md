@@ -9,7 +9,7 @@ Whether you're learning or incorporating these techniques into your pentest repo
 
 ## Features
 
-- Comprehensive checklists for Pentesting, Redteaming, Bug bounty etc
+- Comprehensive checklists for Pentesting, Red Teaming, Bug bounty etc
 - Invaluable insights into Offensive Cybersecurity
 - Enhance your web application security
 
