@@ -16,7 +16,7 @@ Whether you're learning or incorporating these techniques into your pentest repo
 
 To access the HEGO Wiki, click on the badge below:
 
-[![HEGO Wiki](https://hego.gitbook.io)
+[![HEGO Wiki](https://img.shields.io/badge/HEGO-Wiki-blueviolet)](https://hego.gitbook.io)
 
 Feel free to explore the different sections and bookmark the pages for future reference.
 
