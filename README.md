@@ -1,8 +1,8 @@
 # HEGO Wiki
 
-![HEGO Wiki Banner]([https://github.com/your-username/your-repo-name/raw/main/images/banner_image.jpg](https://github.com/imhego/HEGO-Wiki/blob/main/banner.jpg))
+![HEGO Wiki Banner](https://github.com/imhego/HEGO-Wiki/blob/main/banner.jpg?raw=true)
 
-[![HEGO Wiki]([https://img.shields.io/badge/HEGO-Wiki-blueviolet)](https://hego.gitbook.io](https://github.com/imhego/HEGO-Wiki/blob/main/banner.jpg))
+[![HEGO Wiki](https://github.com/imhego/HEGO-Wiki/blob/main/banner.jpg?raw=true)
 
 HEGO Wiki is your ultimate resource for Offensive Cybersecurity hobbies. Explore my comprehensive collection of checklists and gain invaluable insights into securing web applications effectively. Fortify your defenses with the knowledge provided on HEGO Wiki.
 
