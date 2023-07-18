@@ -25,5 +25,3 @@ Feel free to explore the different sections and bookmark the pages for future re
 ## Contribution
 
 Contributions to HEGO Wiki are welcome! If you have valuable insights or checklists to share, please follow the [contribution guidelines](https://hego.gitbook.io/home/contact-me/contact) to get started.
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/hego)](buymeacoffee.com/?via=hego)
