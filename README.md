@@ -1,6 +1,6 @@
 # HEGO Wiki
 
-![HEGO Wiki Banner](https://github.com/imhego/HEGO-Wiki/blob/main/main-banner.jpg?raw=true)(https://hego.gitbook.io)
+[![HEGO Wiki Banner](https://github.com/imhego/HEGO-Wiki/blob/main/main-banner.jpg?raw=true)](https://hego.gitbook.io)
 ### From zero to HEGO!
 #### Empowering your journey from beginner to expert. Happy hacking, happy bug-hunting!
 
